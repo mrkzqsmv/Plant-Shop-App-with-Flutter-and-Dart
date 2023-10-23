@@ -22,6 +22,6 @@
   </tr>
   <tr>
     <td><img src='https://github.com/mrkzqsmv/Plant-Shop-App-with-Flutter-and-Dart/blob/main/app_screens/WhatsApp%20Image%202023-10-23%20at%2010.56.41%20AM%20(1).jpeg'></td>
-    <td><img src=''></td>
+    <td></td>
   </tr>
 </table>
